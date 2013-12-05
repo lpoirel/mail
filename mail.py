@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 import poplib, re, getpass,os
-
+test
 #constantes
 POP_SERVER = 'pop.gmail.com'
 POP_USER = 'louis.poirel'
